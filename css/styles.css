@@ -1,32 +1,16 @@
-header{
-  background-color:lime;
-  padding-top:40px;
-  padding-bottom:40px;
+/* STYLE PRESETS DO NOT ALTER THIS SECTION */
+h1, h2, h3, h4, h5, h6 {
+    margin-top:10px;
 }
-nav{
-  background-color:black;
-  padding-top:40px;
-  padding-bottom:40px;
+
+p {
+    font-size:16px;
 }
-.left-item{
-  background-color:yellow;
-  padding-top:40px;
-  padding-bottom:40px;
-  float:left;
-  width:75%;
+
+.fab, .far {
+    font-size:30px;
+    margin-left:5px;
+    margin-right:5px;
 }
-.right-item{
-  background-color:blue;
-  padding-top:40px;
-  padding-bottom:40px;
-  float:left;
-  width:25%
-}
-.clearfix{
-  clear:both;
-}
-footer{
-  background-color:pink;
-  padding-top:40px;
-  padding-bottom:40px;
-}
+
+/* PLACE YOUR CUSTOM CODE HERE */
